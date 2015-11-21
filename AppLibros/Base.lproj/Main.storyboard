@@ -54,6 +54,7 @@
                             </textView>
                         </subviews>
                         <animations/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstAttribute="trailingMargin" secondItem="jiQ-jX-PCO" secondAttribute="trailing" constant="15" id="3LC-WD-E0X"/>
                             <constraint firstItem="2Ie-5O-9JE" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="-5" id="SBP-f5-0Bi"/>
