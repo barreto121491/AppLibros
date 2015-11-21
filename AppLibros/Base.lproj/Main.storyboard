@@ -54,7 +54,6 @@
                             </textView>
                         </subviews>
                         <animations/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstAttribute="trailingMargin" secondItem="jiQ-jX-PCO" secondAttribute="trailing" constant="15" id="3LC-WD-E0X"/>
                             <constraint firstItem="2Ie-5O-9JE" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="-5" id="SBP-f5-0Bi"/>
@@ -71,7 +70,7 @@
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
                     <connections>
-                        <outlet property="claveIntroducida" destination="jiQ-jX-PCO" id="9IA-ZO-g8f"/>
+                        <outlet property="claveIntroducida" destination="jiQ-jX-PCO" id="xie-Zw-Lob"/>
                         <outlet property="mensaje" destination="A8C-lJ-AuB" id="ePm-J8-WEs"/>
                         <outlet property="textViewContenidp" destination="UhZ-2E-uSq" id="JZn-nG-xxo"/>
                     </connections>
